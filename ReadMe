@@ -1,0 +1,11 @@
+Backend
+Got Java Backend from https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial
+Running by “mvn spring-boot:run”
+
+Frontend
+Created Angular Frontend using Angular CLI
+Data from WAMP server Database are taken from by API and APIs are exposed to http://localhost:8080 ( http://localhost:8080/api/notes)
+Angular getting from there, and manipulating for CRUD operation
+
+Database Structure
+ 
